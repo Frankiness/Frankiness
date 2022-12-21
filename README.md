@@ -1,0 +1,5 @@
+- 👋 Hi, I’m `@Frankiness`
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning `Threejs`
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me [Email]:tanyulin110@qq.com
